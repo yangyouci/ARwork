@@ -1,16 +1,5 @@
 {
   "dependencies": {
-    "com.ptc.vuforia.engine": {
-      "version": "https://github.com/mcloots/vuforia_package_11.4.4.git#7df19420a497bf4bfd02dc9dfb2686a2e7012e35",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.unity.ugui": "1.0.0",
-        "com.unity.inputsystem": "1.11.2",
-        "com.unity.nuget.newtonsoft-json": "3.2.1"
-      },
-      "hash": "7df19420a497bf4bfd02dc9dfb2686a2e7012e35"
-    },
     "com.unity.ai.navigation": {
       "version": "2.0.12",
       "depth": 0,
@@ -101,13 +90,6 @@
     "com.unity.nuget.mono-cecil": {
       "version": "1.11.6",
       "depth": 3,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.nuget.newtonsoft-json": {
-      "version": "3.2.2",
-      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
